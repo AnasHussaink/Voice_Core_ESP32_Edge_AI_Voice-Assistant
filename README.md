@@ -78,3 +78,10 @@ See ARCHITECTURE.md for implementation notes and troubleshooting.
 ## License
 
 See LICENSE.
+
+
+## Development and quality
+
+[![Repository quality](https://github.com/AnasHussaink/Voice_Core_ESP32_Edge_AI_Voice-Assistant/actions/workflows/quality.yml/badge.svg)](https://github.com/AnasHussaink/Voice_Core_ESP32_Edge_AI_Voice-Assistant/actions/workflows/quality.yml)
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for branch/PR workflow, local checks and CI coverage.
