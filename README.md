@@ -85,3 +85,7 @@ See LICENSE.
 [![Repository quality](https://github.com/AnasHussaink/Voice_Core_ESP32_Edge_AI_Voice-Assistant/actions/workflows/quality.yml/badge.svg)](https://github.com/AnasHussaink/Voice_Core_ESP32_Edge_AI_Voice-Assistant/actions/workflows/quality.yml)
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for branch/PR workflow, local checks and CI coverage.
+
+## Technical scope
+
+ESP32-S3 voice assistant firmware using Arduino C++, I2S audio, PSRAM, WAV encoding, Wi-Fi and cloud speech/LLM APIs. PlatformIO compiles the original sketch through `pio-src/voicecore.cpp`.
